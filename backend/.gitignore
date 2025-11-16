@@ -1,0 +1,14 @@
+.env
+*.env
+node_modules/
+npm-debug.log*
+package-lock.json
+logs/
+*.log
+.DS_Store
+.vscode/
+.idea/
+dist/
+.pm2/
+*.pid
+*.tmp

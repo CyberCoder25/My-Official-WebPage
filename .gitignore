@@ -1,0 +1,44 @@
+# Environment Variables
+.env
+*.env
+backend/.env
+frontend/.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Build Output
+dist/
+build/
+frontend/dist/
+
+# Logs
+logs/
+*.log
+backend/logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary
+*.tmp
+*.temp
+.cache/
+
+# PM2
+.pm2/
+*.pid
+
+# Backup
+*.bak
+*.old
